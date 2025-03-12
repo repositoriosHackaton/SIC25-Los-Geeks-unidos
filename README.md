@@ -27,19 +27,14 @@ El objetivo de este proyecto es desarrollar un sistema de recomendaci√≥n de pel√
 
 ## HERRAMIENTAS UTILIZADAS 
 
-- HTML
-- CSS
-- SQL
-- PYTHON
-
 MODELO ENTRENADO:
 - DecisionTreeClassifier()
   
 Optimizacion del Modelo:
 -  GridSearchCV
   
-Para Ejecutar la Interfaz:
-- Xampp
+Pagina Web:
+- HTML, CSS, SQL Y PYTHON
 
   ## ARQUITECTURA DEL PROYECTO
   
