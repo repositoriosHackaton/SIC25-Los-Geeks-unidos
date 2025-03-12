@@ -63,41 +63,36 @@ GRÁFICAS:
 
 Funcionalidades Principales:
 
-Recomendaciones de películas basadas en emociones:
+° Recomendaciones de películas basadas en emociones:
 
 Análisis del estado de ánimo del usuario (a través de interacciones simples o análisis avanzado).
 Sugerencias de películas que se alinean con las emociones del usuario.
 
-Análisis de datos de películas:
+° Análisis de datos de películas:
 Base de datos extensa con información sobre el contenido emocional de las películas.
 Análisis de géneros, tramas, personajes y otros elementos cinematográficos.
 
-Interfaz de usuario intuitiva:
+° Pagina Web de usuario intuitiva:
 Plataforma fácil de usar para interactuar con el sistema y recibir recomendaciones.
-Opciones para proporcionar retroalimentación sobre las recomendaciones.
 
-Perfil de usuario personalizado:
-Almacenamiento de preferencias y datos emocionales del usuario (con privacidad garantizada).
-Historial de películas vistas y recomendaciones recibidas.
+° URL de la pagina web: http://127.0.0.1:5000
 
-Integración con plataformas de streaming:
-Conexión con servicios de streaming populares para acceder directamente a las películas recomendadas.
+Funcionalidades para Futuro:
 
-Opciones de análisis emocional avanzado (futuro):
+° Opciones de análisis emocional avanzado:
 Análisis de expresiones faciales.
 Análisis de actividad cerebral (con consentimiento del usuario).
 
-Privacidad y seguridad de datos:
+° Privacidad y seguridad de datos:
 Protección de la información emocional del usuario.
 Transparencia en el uso de datos.
 
-Sistema de retroalimentación:
+° Sistema de retroalimentación:
 Que el usuario califique las peliculas, y de esa manera, se optimice el sistema.
 
 Funcionalidades Adicionales (Posibles):
-Recomendaciones de contenido relacionado:
-Sugerencias de bandas sonoras, documentales o contenido detrás de cámaras.
-Comunidad de usuarios:
+
+° Comunidad de usuarios:
 Foros o espacios para compartir opiniones y recomendaciones.
 
 
